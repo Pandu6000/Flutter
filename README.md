@@ -22,6 +22,6 @@ This project uses the following platforms and tools:
 4. Figma
 
 Links:
-[-Figma](https://www.figma.com/proto/XkUgPxRDViooC4ge3WJQQR/Test-App?node-id=23-220&t=fLiBoGwNtOHBkKRT-1)
-[-Canva](https://www.canva.com/design/DAGfGuAgxOM/6TRbYmh9TOWRqwLbsGaUbg/edit?utm_content=DAGfGuAgxOM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[-Firebase Console](https://console.firebase.google.com/u/0/)
+- [Figma](https://www.figma.com/proto/XkUgPxRDViooC4ge3WJQQR/Test-App?node-id=23-220&t=fLiBoGwNtOHBkKRT-1)
+- [Canva](https://www.canva.com/design/DAGfGuAgxOM/6TRbYmh9TOWRqwLbsGaUbg/edit?utm_content=DAGfGuAgxOM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Firebase Console](https://console.firebase.google.com/u/0/)
