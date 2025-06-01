@@ -1,6 +1,6 @@
 # EMS++
 
-A new Flutter project.
+An app with comprehensive medical features.
 
 ## Getting Started
 
